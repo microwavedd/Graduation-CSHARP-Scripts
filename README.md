@@ -1,0 +1,1 @@
+Para quien sea que haya entrado aquí desde la aplicación, este es un lugar donde he hospedado todo el código referente a procesos dentro de la aplicación, por lo que, si no eres un friki total, sal de aquí cagando leches.
