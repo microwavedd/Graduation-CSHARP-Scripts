@@ -1,3 +1,5 @@
+// Esta es posiblemente la parte que más me costó implementar, estuve 1 horita sentado en frente del monitor pensando como cojones hacerlo.
+
 using UnityEngine;
 using System.Collections.Generic;
 
